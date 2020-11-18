@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/URJCDSLab/KRAKEN-SND/blob/master/figures/kraken.png" alt="drawing" width="200"/>
+</p>
+
 # KRAKEN-SND
 
 This is the implementation of *KRAKEN-SND*.
